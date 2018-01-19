@@ -1,0 +1,26 @@
+.box {
+  height: 200px;
+  background-color: blue;
+  border: 1px solid black;
+}
+.nav {
+  height: 100px;
+}
+.hero {
+  height: 300px;
+}
+.blue {
+  background-color: blue;
+}
+.red {
+  background-color: red;
+}
+.purple {
+  background-color: purple;
+}
+.burlywood {
+  background-color: burlywood;
+}
+.footer {
+  height: 150px;
+}

@@ -1,0 +1,27 @@
+.nav {
+  height: 100px;
+}
+.hero {
+  height: 400px;
+  padding-left: 55px;
+}
+.blue {
+  background-color: #00307f;
+}
+.center {
+  text-align: center;
+}
+.white-text {
+  color: white;
+}
+.small-img {
+  height: 250px;
+  width: 300px;
+}
+.team-7 {
+  height: 150px;
+  width: 150px;
+}
+.footer {
+  height: 75px;
+}
